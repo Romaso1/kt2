@@ -52,7 +52,7 @@ function Head() {
               <div class="col-lg-5 mr-auto" data-aos="fade-up">
                 <div class="owl-carousel slide-one-item-alt-text">
                   <div class="slide-text">
-                    <h1>We Do Awesome Things</h1>
+                    <h1>I Do Awesome Things</h1>
                     <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime ipsa nulla sed quis rerum amet natus quas necessitatibus.</p>
                     <p><a href="#" target="_blank" class="btn btn-outline-light py-3 px-5">Get Started</a></p>
                   </div>
@@ -62,12 +62,12 @@ function Head() {
                     <p><a href="#" target="_blank" class="btn btn-outline-light py-3 px-5">Get Started</a></p>
                   </div>
                   <div class="slide-text">
-                    <h1>High Quality Website Templates</h1>
+                    <h1>High Quality Templates</h1>
                     <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime ipsa nulla sed quis rerum amet natus quas necessitatibus.</p>
                     <p><a href="#" target="_blank" class="btn btn-outline-light py-3 px-5">Get Started</a></p>
                   </div>
                   <div class="slide-text">
-                    <h1>We do things right.</h1>
+                    <h1>I do things right.</h1>
                     <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime ipsa nulla sed quis rerum amet natus quas necessitatibus.</p>
                     <p><a href="#" target="_blank" class="btn btn-outline-light py-3 px-5">Get Started</a></p>
                   </div>
@@ -107,7 +107,7 @@ function Head() {
                 <div class="image-absolute-box">
                   <div class="box">
                     <div class="icon-wrap"><span class="flaticon-vector"></span></div>
-                    <h3>Pixel Perfect Templates</h3>
+                    <h3>Template by Meliczzz</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati commodi aspernatur eum eius inventore facilis.</p>
                     <p class="mb-0">Visit <a href="#" class="text-danger">It Step</a></p>
                   </div>
@@ -133,7 +133,7 @@ function Head() {
                 <div class="icon-wrap"><span class="flaticon-download text-primary"></span></div>
                 <div class="counter-text">
                   <strong class="number" data-number="4500">0</strong>
-                  <span>WordPress Themes </span>
+                  <span>Projects </span>
                 </div>
               </div>
             </div>
@@ -161,7 +161,7 @@ function Head() {
           <div class="container">
             <div class="row">
               <div class="col-lg-6 mb-5">
-                <h2 class="section-title">Our Projects</h2>
+                <h2 class="section-title">Photos</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem possimus distinctio ex. Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
               </div>
             </div>
@@ -169,35 +169,35 @@ function Head() {
           <div class="owl-carousel nonloop-block-13">
             <a class="work-thumb" href="images/img_1.jpg" data-fancybox="gallery">
               <div class="work-text">
-                <h3>Project Name Here</h3>
+                <h3>Anime</h3>
                 <span class="category">Website</span>
               </div>
               <img src="./images/images-img_1.jpg" alt="Image" class="img-fluid"></img>
             </a>
             <a class="work-thumb" href="images/img_2.jpg" data-fancybox="gallery">
               <div class="work-text">
-                <h3>Project Name Here</h3>
-                <span class="category">Illustration</span>
+                <h3>Anime</h3>
+                <span class="category">C++</span>
               </div>
               <img src="./images/images-img_2.jpg" alt="Image" class="img-fluid"></img>
             </a>
             <a class="work-thumb" href="images/img_3.jpg" data-fancybox="gallery">
               <div class="work-text">
-                <h3>Project Name Here</h3>
-                <span class="category">Branding</span>
+                <h3>Anime</h3>
+                <span class="category">Python</span>
               </div>
               <img src="./images/images-img_3.jpg" alt="Image" class="img-fluid"></img>
             </a>
             <a class="work-thumb" href="images/img_4.jpg" data-fancybox="gallery">
               <div class="work-text">
-                <h3>Project Name Here</h3>
+                <h3>Anime</h3>
                 <span class="category">Web Development</span>
               </div>
               <img src="./images/images-img_4.jpg" alt="Image" class="img-fluid"></img>
             </a>
             <a class="work-thumb" href="images/img_1.jpg" data-fancybox="gallery">
               <div class="work-text">
-                <h3>Project Name Here</h3>
+                <h3>Anime</h3>
                 <span class="category">Design</span>
               </div>
               <img src="./images/images-img_1.jpg" alt="Image" class="img-fluid"></img>

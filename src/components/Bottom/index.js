@@ -59,11 +59,11 @@ function Bot() {
         </div>
         <div class="site-section" data-aos="fade">
           <div class="container">
-            <a href="https://vimeo.com/325355987" class="video-img-bg" data-fancybox data-ratio="2">
+            <a href="https://www.youtube.com/watch?v=mtffdoscRec" class="video-img-bg" data-fancybox data-ratio="2">
               <span class="play-button">
                 <span class="icon-play"></span>
               </span>
-              <img src="./images/images-video_bg.jpg" alt="Image" class="img-fluid"></img>
+              <img src="./images/jojo.png" alt="Image" class="img-fluid"></img>
             </a>
           </div>
         </div>
@@ -71,7 +71,7 @@ function Bot() {
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-5 order-1 order-md-2 mb-5 mb-md-0">
-                <img src="./images/images-about_1.jpg" alt="Image" class="img-fluid"></img>
+                <img src="./images/images-about_1.png" alt="Image" class="img-fluid"></img>
               </div>
               <div class="col-md-6 mr-auto order-2 order-md-1">
                 <h2 class="section-title mb-3">Contact Me</h2>

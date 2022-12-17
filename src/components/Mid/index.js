@@ -8,7 +8,7 @@ function Mid() {
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 mb-5">
-                        <h2 class="section-title">Our Approach</h2>
+                        <h2 class="section-title">About me</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem possimus distinctio ex. Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                     </div>
                 </div>
@@ -17,7 +17,7 @@ function Mid() {
                         <div class="process bg-white rounded">
                             <div>
                                 <span class="flaticon-glasses display-4 text-primary mb-4 d-inline-block"></span>
-                                <h3>Data Gathering</h3>
+                                <h3>Deep Learning</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem possimus distinctio ex. Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                             </div>
                         </div>
@@ -26,7 +26,7 @@ function Mid() {
                         <div class="process bg-white rounded">
                             <div>
                                 <span class="flaticon-vector display-4 text-primary mb-4 d-inline-block"></span>
-                                <h3>Implementation</h3>
+                                <h3>Working on Projects</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem possimus distinctio ex. Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                             </div>
                         </div>
@@ -35,7 +35,7 @@ function Mid() {
                         <div class="process bg-white rounded">
                             <div>
                                 <span class="flaticon-monitor display-4 text-primary mb-4 d-inline-block"></span>
-                                <h3>Launch</h3>
+                                <h3>Release</h3>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem possimus distinctio ex. Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                             </div>
                         </div>
@@ -82,10 +82,10 @@ function Mid() {
                     </div>
                     <div class="col-lg-6 ml-auto" data-aos="fade-up" data-aos-delay="200">
                         <div class="owl-carousel slide-one-item-alt">
-                            <img src="./images/images-person_1.jpg" alt="Image" class="img-fluid"></img>
-                            <img src="./images/images-person_2.jpg" alt="Image" class="img-fluid"></img>
-                            <img src="./images/images-person_3.jpg" alt="Image" class="img-fluid"></img>
-                            <img src="./images/images-person_4.jpg" alt="Image" class="img-fluid"></img>
+                            <img src="./images/p1.jpg" alt="Image" class="img-fluid"></img>
+                            <img src="./images/p2.jpg" alt="Image" class="img-fluid"></img>
+                            <img src="./images/p3.jpg" alt="Image" class="img-fluid"></img>
+                            <img src="./images/p4.jpg" alt="Image" class="img-fluid"></img>
                         </div>
                         <div class="owl-custom-direction">
                             <a href="#" class="custom-prev"><span class="icon-keyboard_arrow_left"></span></a>
