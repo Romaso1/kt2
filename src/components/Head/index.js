@@ -1,18 +1,15 @@
-
-
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
-  integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
-  crossorigin="anonymous"
-/>
-
-
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Head() {
     return (
       <div>
-
+<div id="overlayer"></div>
+<div class="loader">
+<div class="spinner-border text-primary" role="status">
+<span class="sr-only">Loading...</span>
+</div>
+</div>
 <div class="site-wrap">
 <div class="site-mobile-menu site-navbar-target">
 <div class="site-mobile-menu-header">
@@ -78,10 +75,10 @@ function Head() {
 </div>
 <div class="col-lg-6 ml-auto" data-aos="fade-up" data-aos-delay="100">
 <div class="owl-carousel slide-one-item-alt">
-<img src="../images/images-img_1.jpg" alt="Image" class="img-fluid"></img>
-<img src="../images/images-img_2.jpg" alt="Image" class="img-fluid"></img>
-<img src="../images/images-img_3.jpg" alt="Image" class="img-fluid"></img>
-<img src="../images/images-img_4.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-img_1.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-img_2.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-img_3.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-img_4.jpg" alt="Image" class="img-fluid"></img>
 </div>
 <div class="owl-custom-direction">
 <a href="#" class="custom-prev"><span class="icon-keyboard_arrow_left"></span></a>
@@ -114,7 +111,7 @@ function Head() {
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati commodi aspernatur eum eius inventore facilis.</p>
 <p class="mb-0">Visit <a href="#" class="text-danger">Colorlib</a></p>
 </div>
-<img src="../images/images-img_1.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-img_1.jpg" alt="Image" class="img-fluid"></img>
 </div>
 </div>
 </div>
@@ -175,35 +172,35 @@ function Head() {
 <h3>Project Name Here</h3>
 <span class="category">Website</span>
 </div>
-<img src="../images/images-img_1.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-img_1.jpg" alt="Image" class="img-fluid"></img>
 </a>
 <a class="work-thumb" href="images/img_2.jpg" data-fancybox="gallery">
 <div class="work-text">
 <h3>Project Name Here</h3>
 <span class="category">Illustration</span>
 </div>
-<img src="../images/images-img_2.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-img_2.jpg" alt="Image" class="img-fluid"></img>
 </a>
 <a class="work-thumb" href="images/img_3.jpg" data-fancybox="gallery">
 <div class="work-text">
 <h3>Project Name Here</h3>
 <span class="category">Branding</span>
 </div>
-<img src="../images/images-img_3.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-img_3.jpg" alt="Image" class="img-fluid"></img>
 </a>
 <a class="work-thumb" href="images/img_4.jpg" data-fancybox="gallery">
 <div class="work-text">
 <h3>Project Name Here</h3>
 <span class="category">Web Development</span>
 </div>
-<img src="../images/images-img_4.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-img_4.jpg" alt="Image" class="img-fluid"></img>
 </a>
 <a class="work-thumb" href="images/img_1.jpg" data-fancybox="gallery">
 <div class="work-text">
 <h3>Project Name Here</h3>
 <span class="category">Design</span>
 </div>
-<img src="../images/images-img_1.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-img_1.jpg" alt="Image" class="img-fluid"></img>
 </a>
 </div>
 </div>
@@ -285,10 +282,10 @@ function Head() {
 </div>
 <div class="col-lg-6 ml-auto" data-aos="fade-up" data-aos-delay="200">
 <div class="owl-carousel slide-one-item-alt">
-<img src="../images/images-person_1.jpg" alt="Image" class="img-fluid"></img>
-<img src="../images/images-person_2.jpg" alt="Image" class="img-fluid"></img>
-<img src="../images/images-person_3.jpg" alt="Image" class="img-fluid"></img>
-<img src="../images/images-person_4.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-person_1.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-person_2.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-person_3.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-person_4.jpg" alt="Image" class="img-fluid"></img>
 </div>
 <div class="owl-custom-direction">
 <a href="#" class="custom-prev"><span class="icon-keyboard_arrow_left"></span></a>
@@ -411,7 +408,7 @@ function Head() {
 <span class="play-button">
 <span class="icon-play"></span>
 </span>
-<img src="../images/images-video_bg.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-video_bg.jpg" alt="Image" class="img-fluid"></img>
 </a>
 </div>
 </div>
@@ -419,7 +416,7 @@ function Head() {
 <div class="container">
 <div class="row align-items-center">
 <div class="col-md-5 order-1 order-md-2 mb-5 mb-md-0">
-<img src="../images/images-about_1.jpg" alt="Image" class="img-fluid"></img>
+<img src="./images/images-about_1.jpg" alt="Image" class="img-fluid"></img>
 </div>
 <div class="col-md-6 mr-auto order-2 order-md-1">
 <h2 class="section-title mb-3">Contact Us</h2>
