@@ -27,10 +27,10 @@ function Head() {
                 <nav class="site-navigation position-relative text-right" role="navigation">
                   <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-xl-block">
                     <li><a href="#home-section" class="nav-link">Home</a></li>
-                    <li><a href="#work-section" class="nav-link">Projects</a></li>
-                    <li><a href="#process-section" class="nav-link">Process</a></li>
-                    <li><a href="#testimonials-section" class="nav-link">Testimonials</a></li>
-                    <li><a href="#services-section" class="nav-link">Services</a></li>
+                    <li><a href="#work-section" class="nav-link">Photos</a></li>
+                    <li><a href="#process-section" class="nav-link">About</a></li>
+                    <li><a href="#testimonials-section" class="nav-link">My Photos</a></li>
+                    <li><a href="#services-section" class="nav-link">Skills</a></li>
                   </ul>
                 </nav>
               </div>
@@ -109,7 +109,7 @@ function Head() {
                     <div class="icon-wrap"><span class="flaticon-vector"></span></div>
                     <h3>Pixel Perfect Templates</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati commodi aspernatur eum eius inventore facilis.</p>
-                    <p class="mb-0">Visit <a href="#" class="text-danger">Colorlib</a></p>
+                    <p class="mb-0">Visit <a href="#" class="text-danger">It Step</a></p>
                   </div>
                   <img src="./images/images-img_1.jpg" alt="Image" class="img-fluid"></img>
                 </div>

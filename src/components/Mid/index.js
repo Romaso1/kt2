@@ -47,7 +47,7 @@ function Mid() {
             <div class="container">
                 <div class="row text-center justify-content-center mb-5" data-aos="fade-up">
                     <div class="col-lg-6 mb-5 text-center">
-                        <h2 class="section-title w-100 mx-auto">Testimonials</h2>
+                        <h2 class="section-title w-100 mx-auto">My Photos</h2>
                         <p>Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                     </div>
                 </div>
@@ -57,25 +57,25 @@ function Mid() {
                             <div class="slide-text">
                                 <blockquote>
                                     <p><span>&ldquo;</span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos corrupti, obcaecati repudiandae, animi ad quos. Eius expedita ipsa qui autem.<span>&rdquo;</span></p>
-                                    <p class="author">&mdash; Jean Doe</p>
+                                    <p class="author">&mdash; Roman Davidyuk</p>
                                 </blockquote>
                             </div>
                             <div class="slide-text">
                                 <blockquote>
                                     <p><span>&ldquo;</span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos corrupti, obcaecati repudiandae, animi ad quos. Eius expedita ipsa qui autem.<span>&rdquo;</span></p>
-                                    <p class="author">&mdash; Gregg Pollach</p>
+                                    <p class="author">&mdash; Roman Davidyuk</p>
                                 </blockquote>
                             </div>
                             <div class="slide-text">
                                 <blockquote>
                                     <p><span>&ldquo;</span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos corrupti, obcaecati repudiandae, animi ad quos. Eius expedita ipsa qui autem.<span>&rdquo;</span></p>
-                                    <p class="author">&mdash; Rober Kenneth</p>
+                                    <p class="author">&mdash; Roman Davidyuk</p>
                                 </blockquote>
                             </div>
                             <div class="slide-text">
                                 <blockquote>
                                     <p><span>&ldquo;</span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos corrupti, obcaecati repudiandae, animi ad quos. Eius expedita ipsa qui autem.<span>&rdquo;</span></p>
-                                    <p class="author">&mdash; Joshua Smith</p>
+                                    <p class="author">&mdash; Roman Davidyuk</p>
                                 </blockquote>
                             </div>
                         </div>
@@ -99,7 +99,7 @@ function Mid() {
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 mb-5">
-                        <h2 class="section-title">Services</h2>
+                        <h2 class="section-title">Skills</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem possimus distinctio ex. Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                     </div>
                 </div>
@@ -108,21 +108,21 @@ function Mid() {
                 <div class="service">
                     <div>
                         <span class="custom-icon-wrap"><span class="flaticon-reload"></span></span>
-                        <h3>Branding Design</h3>
+                        <h3>Python Developer</h3>
                         <p>Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                     </div>
                 </div>
                 <div class="service">
                     <div>
                         <span class="custom-icon-wrap"><span class="flaticon-download"></span></span>
-                        <h3>WordPress Integration</h3>
+                        <h3>Downloadble Projects</h3>
                         <p>Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                     </div>
                 </div>
                 <div class="service">
                     <div>
                         <span class="custom-icon-wrap"><span class="flaticon-monitor"></span></span>
-                        <h3>Web Development</h3>
+                        <h3>Web Developer</h3>
                         <p>Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                     </div>
                 </div>
@@ -136,14 +136,14 @@ function Mid() {
                 <div class="service">
                     <div>
                         <span class="custom-icon-wrap"><span class="flaticon-glasses"></span></span>
-                        <h3>Web Templates</h3>
+                        <h3>C++</h3>
                         <p>Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                     </div>
                 </div>
                 <div class="service">
                     <div>
                         <span class="custom-icon-wrap"><span class="flaticon-vector"></span></span>
-                        <h3>Creative Design</h3>
+                        <h3>Designer</h3>
                         <p>Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                     </div>
                 </div>

@@ -8,7 +8,7 @@ function Bot() {
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-lg-7 text-center">
-                <h2 class="section-title mb-3 text-center text-white mx-auto">Choose Your Plan</h2>
+                <h2 class="section-title mb-3 text-center text-white mx-auto">Choose Your Donation</h2>
                 <p class="mb-5 section-desc">Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
               </div>
             </div>
@@ -18,12 +18,12 @@ function Bot() {
           <div class="row no-gutters">
             <div class="col-lg-4">
               <div class="pricing">
-                <h3>Starters</h3>
+                <h3>Starters Donation</h3>
                 <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <div class="price">
-                  <span>Starting at</span>
+                  <span>Donate</span>
                   <strong>$<em class="number" data-number="7">0</em></strong>
-                  <span>Per Month</span>
+                  <span>I will be happy :3</span>
                 </div>
                 <p class="description-2 mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum enim nobis aspernatur saepe dolores?</p>
                 <p><a href="#" target="_blank" class="btn btn-outline-primary py-3 px-5">Get Started</a></p>
@@ -31,12 +31,12 @@ function Bot() {
             </div>
             <div class="col-lg-4">
               <div class="pricing pricing-popular">
-                <h3>Premium</h3>
+                <h3>Premium Donation</h3>
                 <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <div class="price">
-                  <span>Starting at</span>
-                  <strong>$<em class="number" data-number="75">0</em></strong>
-                  <span>Per Month</span>
+                  <span>Donate</span>
+                  <strong>$<em class="number" data-number="10">0</em></strong>
+                  <span>I will be happy :3</span>
                 </div>
                 <p class="description-2 mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum enim nobis aspernatur saepe dolores?</p>
                 <p><a href="#" target="_blank" class="btn  btn-outline-danger py-3 px-5">Get Started</a></p>
@@ -44,12 +44,12 @@ function Bot() {
             </div>
             <div class="col-lg-4">
               <div class="pricing">
-                <h3>Enterprise</h3>
+                <h3>Enterprise Donation</h3>
                 <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <div class="price">
-                  <span>Starting at</span>
-                  <strong>$<em class="number" data-number="390">0</em></strong>
-                  <span>Per Month</span>
+                  <span>Donate</span>
+                  <strong>$<em class="number" data-number="15">0</em></strong>
+                  <span>I will be happy :3</span>
                 </div>
                 <p class="description-2 mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum enim nobis aspernatur saepe dolores?</p>
                 <p><a href="#" target="_blank" class="btn btn-outline-primary py-3 px-5">Get Started</a></p>
@@ -74,7 +74,7 @@ function Bot() {
                 <img src="./images/images-about_1.jpg" alt="Image" class="img-fluid"></img>
               </div>
               <div class="col-md-6 mr-auto order-2 order-md-1">
-                <h2 class="section-title mb-3">Contact Us</h2>
+                <h2 class="section-title mb-3">Contact Me</h2>
                 <p class="mb-5">Natus totam voluptatibus animi aspernatur ducimus quas obcaecati mollitia quibusdam temporibus culpa dolore molestias blanditiis consequuntur sunt nisi.</p>
                 <form method="post">
                   <div class="form-group row">
@@ -114,17 +114,17 @@ function Bot() {
           <div class="container">
             <div class="row">
               <div class="col-md-4">
-                <h3>About Us</h3>
+                <h3>About Me</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro consectetur ut hic ipsum et veritatis corrupti. Itaque eius soluta optio dolorum temporibus in, atque, quos fugit sunt sit quaerat dicta.</p>
               </div>
               <div class="col-md-3 ml-auto">
                 <h3>Links</h3>
                 <ul class="list-unstyled footer-links">
                   <li><a href="#home-section" class="smoothscroll">Home</a></li>
-                  <li><a href="#work-section" class="smoothscroll">Projects</a></li>
-                  <li><a href="#process-section" class="smoothscroll">Process</a></li>
-                  <li><a href="#testimonials-section" class="smoothscroll">Testimonials</a></li>
-                  <li><a href="#services-section" class="smoothscroll">Services</a></li>
+                  <li><a href="#work-section" class="smoothscroll">Photos</a></li>
+                  <li><a href="#process-section" class="smoothscroll">About</a></li>
+                  <li><a href="#testimonials-section" class="smoothscroll">My Photos</a></li>
+                  <li><a href="#services-section" class="smoothscroll">Skills</a></li>
                 </ul>
               </div>
               <div class="col-md-4">
@@ -143,7 +143,7 @@ function Bot() {
                 <div class="border-top pt-5">
                   <p>
 
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://itstep.edu.ua/?gclid=CjwKCAiA7vWcBhBUEiwAXieItniySdaWrjThXN7Y6IjBSBByTHJPZEe0DH6Qk-1xvO9EjcfUQU8KfRoC-34QAvD_BwE#gsc.tab=0" target="_blank">It step</a>
 
                   </p>
                 </div>
